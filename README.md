@@ -1,6 +1,9 @@
 # LLM-chatbot-Using-RAG
 To use certain LLM models (such as Gemma), you need to create a .env file containing the line HUGGINGFACE_ACCESS_TOKEN=< your hugging face token>
-Install dependencies with pip install -r requirement.txt
+
+Install dependencies with ```pip install -r requirement.txt```
+
+Run with ```streamlit run app.py```
 
 ## Using quantization requires a GPU
 
